@@ -1,0 +1,6 @@
+{
+  "name": "NovaArcade HTML5 Game Portal",
+  "description": "Discover and play hundreds of free HTML5 browser games instantly, with instant search, category filters, responsive player, and game management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
